@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../CatBoostTutorial-master/.idea/CatBoostTutorial-master.iml" filepath="$PROJECT_DIR$/../CatBoostTutorial-master/.idea/CatBoostTutorial-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DigitRecognition/.idea/DigitRecognition.iml" filepath="$PROJECT_DIR$/../DigitRecognition/.idea/DigitRecognition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../PredictionModel/.idea/PredictionModel.iml" filepath="$PROJECT_DIR$/../PredictionModel/.idea/PredictionModel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/dsProject2.iml" filepath="$PROJECT_DIR$/.idea/dsProject2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stockstatstutorial/.idea/stockstatstutorial.iml" filepath="$PROJECT_DIR$/../stockstatstutorial/.idea/stockstatstutorial.iml" />
+    </modules>
+  </component>
+</project>
